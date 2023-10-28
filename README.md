@@ -1,4 +1,4 @@
-The project is an implementation and analysis of https://www.sciencedirect.com/science/article/pii/S0377221799000338#:~:text=They%20start%20with%20the%20whole,last%20polygon%20of%20the%20partition.
+The project is an implementation and analysis of https://www.sciencedirect.com/science/article/pii/S0377221799000338#:~:text=They%20start%20with%20the%20whole,last%20polygon%20of%20the%20partition.https://github.com/arch1tek/Polygon-Decomposition/blob/main/readme.txt
 
 
 To run the program with a randomly generated input with number of vertices  as user input : 
